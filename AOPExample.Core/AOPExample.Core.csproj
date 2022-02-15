@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="AspectCore.Core" Version="2.2.0" />
+      <PackageReference Include="CoreProfiler" Version="1.1.4" />
+      <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
+      <PackageReference Include="Scrutor" Version="4.0.0" />
+    </ItemGroup>
+
+</Project>
